@@ -8,3 +8,6 @@ You can use -s | --strong argument for strong password.
 
 You can also define your password length you want to create.
 
+Bash language is used to create the script 
+
+You can clone it from git and can easily take in your daily life use from terminal.
